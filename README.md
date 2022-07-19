@@ -10,3 +10,6 @@ Perhitungan nilai dari dataset supermarket sales yang diperoleh dari kaggle untu
 
 ### Hasil Mapreduce Hadoop
 ![](screenshot/screenshot.jpeg)
+
+### Hasil Presentasi
+https://drive.google.com/file/d/1Kl-o8BsSWQAfZATcv205asYSQ_UXww9w/view?usp=sharing
